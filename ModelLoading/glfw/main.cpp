@@ -72,7 +72,7 @@ int main(int argc, const char * argv[]) {
     
     Model ourModel("/Users/sunkaixuan524/Downloads/nanosuit/nanosuit.obj");
     
-    Shader shader("/Users/sunkaixuan524/LearnOpenGL/MultipleLights/glfw/shader.vs", "/Users/sunkaixuan524/LearnOpenGL/MultipleLights/glfw/shader.fs");
+    Shader shader("/Users/sunkaixuan524/LearnOpenGL/ModelLoading/glfw/shader.vs", "/Users/sunkaixuan524/LearnOpenGL/ModelLoading/glfw/shader.fs");
     
 //    glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
     
